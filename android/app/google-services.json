@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458186277985",
+    "firebase_url": "https://taxbmsce.firebaseio.com",
+    "project_id": "taxbmsce",
+    "storage_bucket": "taxbmsce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458186277985:android:a71cfebce38a89d76c5620",
+        "android_client_info": {
+          "package_name": "com.example.taxc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458186277985-br146k9r8rul4fjetn77urr390nnbtem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1BZjgLDqmm05wLFy81jM7U8eCkBn7lHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458186277985-br146k9r8rul4fjetn77urr390nnbtem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
